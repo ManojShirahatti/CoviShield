@@ -2,7 +2,7 @@
 This application displays the latest updates based on numbers from https://www.worldometers.info/coronavirus/
 
 ## Download APK & install: https://tinyurl.com/tsvjowr
-As Google suspended all COVID-19 Tracking applications from PlayStore except the ones from WHO or an official governmental organization, that's why I had to build it as an APK to be installed manually and latest version will be always available on my GoogleDrive here https://tinyurl.com/tsvjowr
+As Google suspended all COVID-19 Tracking applications from PlayStore except the ones from WHO or an official governmental organization, that's why I had to build it as an APK to be installed manually and latest version will be always available on my GoogleDrive 
 
 <p align="center">
   <img src="screenshots/covid-19_tracker_screen_001.png" width="400" title="COVID-19 Tracker">
